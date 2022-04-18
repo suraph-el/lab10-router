@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.postContainer{
+  background-color: yellow;
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+
+}
+
+.posts{
+  padding: 20px;
+  display: flex;
+  flex-flow: row wrap;
+
+}
+
+.header{
+  background-color: lightblue;
+  padding: 10px;
+  
+}
+
+
+
+#newpost{
+  text-indent: 500px;
+}
